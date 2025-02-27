@@ -1,0 +1,12 @@
+# Backend
+media-archiver-backend/target/
+media-archiver-backend/.idea/
+
+# Frontend
+media-archiver-frontend/node_modules/
+media-archiver-frontend/dist/
+media-archiver-frontend/.env
+
+# General
+*.log
+.DS_Store
